@@ -1,0 +1,37 @@
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\ProjectMLA.exe
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\ProjectMLA.deps.json
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\ProjectMLA.runtimeconfig.json
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\ProjectMLA.dll
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\ProjectMLA.pdb
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.csproj.AssemblyReference.cache
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.Form1.resources
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.csproj.GenerateResource.cache
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.GeneratedMSBuildEditorConfig.editorconfig
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.AssemblyInfoInputs.cache
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.AssemblyInfo.cs
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.csproj.CoreCompileInputs.cache
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.dll
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\refint\ProjectMLA.dll
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.pdb
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.genruntimeconfig.cache
+H:\מדעי המחשב\שנה ב\DesignPatterns\ProjectMLA-main\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ref\ProjectMLA.dll
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.Form1.resources
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.AssemblyInfo.cs
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.dll
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\refint\ProjectMLA.dll
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.pdb
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\ProjectMLA.exe
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\ProjectMLA.deps.json
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\ProjectMLA.runtimeconfig.json
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\ProjectMLA.dll
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\ProjectMLA.pdb
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\DALandBL.dll
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\bin\Debug\net6.0-windows\DALandBL.pdb
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.csproj.CopyComplete
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ProjectMLA.genruntimeconfig.cache
+C:\Users\User\Downloads\ProjectMLA\ProjectMLA\obj\Debug\net6.0-windows\ref\ProjectMLA.dll

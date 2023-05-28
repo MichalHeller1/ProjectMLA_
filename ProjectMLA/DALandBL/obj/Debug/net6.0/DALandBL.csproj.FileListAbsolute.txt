@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\ProjectMLA\DALandBL\obj\Debug\net6.0\DALandBL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ProjectMLA\DALandBL\obj\Debug\net6.0\DALandBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ProjectMLA\DALandBL\obj\Debug\net6.0\DALandBL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ProjectMLA\DALandBL\obj\Debug\net6.0\DALandBL.AssemblyInfo.cs
+C:\Users\User\Downloads\ProjectMLA\DALandBL\obj\Debug\net6.0\DALandBL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ProjectMLA\DALandBL\bin\Debug\net6.0\DALandBL.deps.json
+C:\Users\User\Downloads\ProjectMLA\DALandBL\bin\Debug\net6.0\DALandBL.dll
+C:\Users\User\Downloads\ProjectMLA\DALandBL\bin\Debug\net6.0\DALandBL.pdb
+C:\Users\User\Downloads\ProjectMLA\DALandBL\obj\Debug\net6.0\DALandBL.dll
+C:\Users\User\Downloads\ProjectMLA\DALandBL\obj\Debug\net6.0\refint\DALandBL.dll
+C:\Users\User\Downloads\ProjectMLA\DALandBL\obj\Debug\net6.0\DALandBL.pdb
+C:\Users\User\Downloads\ProjectMLA\DALandBL\obj\Debug\net6.0\ref\DALandBL.dll

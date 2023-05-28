@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProjectMLA/1.0.0": {
+        "dependencies": {
+          "DALandBL": "1.0.0"
+        },
+        "runtime": {
+          "ProjectMLA.dll": {}
+        }
+      },
+      "DALandBL/1.0.0": {
+        "runtime": {
+          "DALandBL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectMLA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DALandBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
